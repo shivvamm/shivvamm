@@ -75,7 +75,7 @@
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/shivvamm/github-readme-activity-graph">
-  <img alt="subh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=subh-23&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="shivam's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=shivvamm&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
