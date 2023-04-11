@@ -4,7 +4,6 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shivam</h1>
 <h4 align="center">A Full-stack web3 Developer who love challanges </h4>
 </div>
- <h4 style="text-align:center"><img src="https://komarev.com/ghpvc/?username=shivvamm"></h4>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
