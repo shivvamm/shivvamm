@@ -1,5 +1,5 @@
 <div align="center">
-  <h4 style="text-align:center"><img src="https://komarev.com/ghpvc/?username=shivvamm"></h4>
+
 <!-- Hi I'm Shivam Pandey, a full-stack developer and a software engineer from India. -->
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shivam</h1>
 <h4 align="center">A Full-stack web3 Developer who love challanges </h4>
@@ -10,7 +10,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
+  <h4 style="text-align:center"><img src="https://komarev.com/ghpvc/?username=shivvamm"></h4>
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shivampandey62) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/TS2yTgvk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com//in/shivampandey27/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://https://shivvamm.medium.com/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19407149/shivam-pandey) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCmS0xi4M-GelaMXMMTKJISA) 
 
