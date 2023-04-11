@@ -1,4 +1,5 @@
 <div align="center">
+  <h4 style="text-align:center"><img src="https://komarev.com/ghpvc/?username=shivvamm"></h4>
 <!-- Hi I'm Shivam Pandey, a full-stack developer and a software engineer from India. -->
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shivam</h1>
 <h4 align="center">A Full-stack web3 Developer who love challanges </h4>
