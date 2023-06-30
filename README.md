@@ -16,7 +16,15 @@
 
 ### Sanskrit Slogan of the Day
 
-![Sanskrit Slogan](https://shloka.onrender.com/api/v1/sanskrit/slogan/random)
+```javascript
+fetch('https://shloka.onrender.com/api/v1/sanskrit/slogan/random')
+  .then(response => response.json())
+  .then(data => {
+    const slogan = data.Sloka;
+    document.getElementById('sanskritSlogan').innerText = slogan;
+  });
+<div id="sanskritSlogan"></div>
+```
 
 ## 🎖️ Badges:
 [![@shivvamm's Holopin board](https://holopin.me/shivvamm)](https://holopin.io/@shivvamm)
