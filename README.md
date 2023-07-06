@@ -1,11 +1,7 @@
-Welcome to my little corner of the coding cosmos! 🌌 I'm a student-turned-software engineer, navigating the vast realms of technology, one line of code at a time. 🎓💻
-🔍 Seeking answers to the universe's most puzzling bugs? I'm your cosmic companion, always armed with my trusty keyboard and a sense of humor that can even make a compiler chuckle. 😄✨
-
-When I'm not immersed in the binary wonderland, you can find me sipping on a cup of liquid inspiration (aka coffee ☕️), passionately discussing the latest tech trends, or daydreaming about creating the next revolutionary app that will change the world. 🌍💡
-
-So, strap on your coding helmet, grab a slice of pizza (or two 🍕), and let's embark on this cosmic quest together! Feel free to browse through my celestial creations, and don't hesitate to reach out—I'm always up for an intergalactic collaboration. 🤝🚀
-
+👋 Hey there! I'm a student-turned-software engineer, exploring the tech world one line of code at a time. Join me on this cosmic quest as we unravel software mysteries together. Let's create stellar solutions and have a laugh along the way! 🚀✨
+Strap on your coding helmet, grab a slice of pizza (or two 🍕), and join me on this cosmic quest! Explore my celestial creations and let's collaborate across the galaxies. Don't hesitate to reach out—I'm always up for an intergalactic coding adventure! 🤝🚀
 May your code always compile, your deploys be seamless, and your debugging sessions be filled with laughter! Happy coding, fellow space explorer! 🚀✨
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
