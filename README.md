@@ -8,7 +8,7 @@ May your code always compile, your deploys be seamless, and your debugging sessi
        alt="snake" /></a>
 </div>
 
-<iframe align="center" width="100%" src="https://shloka.onrender.com/api/v1/sanskrit/slogan/image" alt="Sanskrit Slogan" /></iframe>
+<object type="image/svg+xml" data="https://shloka.onrender.com/api/v1/sanskrit/slogan/image" width="180" height="72"></object>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shivampandey62) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/TS2yTgvk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com//in/shivampandey27/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://https://shivvamm.medium.com/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19407149/shivam-pandey) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCmS0xi4M-GelaMXMMTKJISA) 
