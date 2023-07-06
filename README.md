@@ -15,9 +15,6 @@ May your code always compile, your deploys be seamless, and your debugging sessi
 | <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=shivvamm&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivvamm&size_weight=0.5&count_weight=0.5&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" width="100%" align="center" alt="Language Stats" /> | <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=shivvamm&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
 | ------------- | ------------- |
 
-## 🎖️ Badges:
-[![@shivvamm's Holopin board](https://holopin.me/shivvamm)](https://holopin.io/@shivvamm)
-
 
 -----
 <details>
