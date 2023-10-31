@@ -1,5 +1,5 @@
 # Hey, I'm Shivam! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-👋 Hey there! I'm a student-turned-software engineer, exploring the tech world one line of code at a time Let's create stellar solutions and have a laugh along the way! 🚀✨
+👋 Hey there! I'm a student-turned-software engineer, exploring the tech world one line of code at a time 🚀✨
 <h2 align="center">About Me</h2>
 
 ###
