@@ -1,6 +1,6 @@
-# Hey, I'm Shivam! Nice to Meet You!🪔 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm Shivam! Nice to Meet You! 🪔 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 👋 Hey there! I'm a student-turned-software engineer, exploring the tech world one line of code at a time 🚀✨
-<h2 align="center">🎆About Me🎆</h2>
+<h2 align="center">🎆  About Me  🎆</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 🤝 I am open to collaborating with others on various projects, particularly those related to web development or areas that I have yet to explore.\
 🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
 ###
-# 🔧 Technologies & Tools🧨
+# 🔧 Technologies & Tools 🧨
 
 <table>
   <tr>
