@@ -2,7 +2,7 @@ name: Update README with Random Shlok Image
 
 on:
   schedule:
-    - cron: '0 * * * *'  
+    - cron: '*/1 * * * *'  
 
 jobs:
   update_readme:
@@ -11,15 +11,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate random number
-        id: random
-        run: echo "RANDOM_NUMBER=$(( RANDOM ))" >> $GITHUB_ENV
-
-      - name: Update README
+      - name: Generate random number and update README
         run: |
-          sed -i "s|https://shloka.onrender.com/api/v1/sanskrit/slogan/image?rand=.*|https://shloka.onrender.com/api/v1/sanskrit/slogan/image?rand=${RANDOM_NUMBER}|g" README.md
-          git config --local user.email "shivam574488@gmail.com"
-          git config --local user.name "shivvamm"
-          git add README.md
-          git commit -m "Update README with new Shlok image random number"
-          git push
+          for i in {1..6}; do
+            RANDOM_NUMBER=$(( RANDOM ))
+            # Update Markdown image tag
+            sed -i "s|https://shloka.onrender.com/api/v1/sanskrit/slogan/image?rand=.*|https://shloka.onrender.com/api/v1/sanskrit/slogan/image?rand=${RANDOM_NUMBER}|g" README.md
+            # Update HTML img tag if exists (with proper closing)
+            sed -i "s|<img src=\"https://shloka.onrender.com/api/v1/sanskrit/slogan/image?rand=.*\"|<img src=\"https://shloka.onrender.com/api/v1/sanskrit/slogan/image?rand=${RANDOM_NUMBER}\" width=\"100%\" alt=\"Shlok\">|g" README.md
+            
+            git config --local user.email "shivam574488@gmail.com"
+            git config --local user.name "shivvamm"
+            git add README.md
+            git commit -m "Update README with new Shlok image random number"
+            git push
+            
+            sleep 10  # Wait for 10 seconds before the next iteration
+          done
