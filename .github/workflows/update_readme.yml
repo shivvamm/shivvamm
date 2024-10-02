@@ -2,7 +2,7 @@ name: Update README with Random Shlok Image
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour (you can adjust this)
+    - cron: '0 * * * *'  
 
 jobs:
   update_readme:
