@@ -1,4 +1,4 @@
-<img src="https://shloka.onrender.com/api/v1/sanskrit/slogan/image?rand=14076
+<img src="https://shloka.onrender.com/api/v1/sanskrit/slogan/image?rand=22015
 
 # Hey, I'm Shivam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
