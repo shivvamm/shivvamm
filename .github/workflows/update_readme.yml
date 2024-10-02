@@ -1,0 +1,25 @@
+name: Update README with Random Shlok Image
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour (you can adjust this)
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate random number
+        id: random
+        run: echo "RANDOM_NUMBER=$(( RANDOM ))" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s|https://shloka.onrender.com/api/v1/sanskrit/slogan/image?rand=.*|https://shloka.onrender.com/api/v1/sanskrit/slogan/image?rand=${RANDOM_NUMBER}|g" README.md
+          git config --local user.email "shivam574488@gmail.com"
+          git config --local user.name "shivvamm"
+          git add README.md
+          git commit -m "Update README with new Shlok image random number"
+          git push
