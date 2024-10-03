@@ -1,5 +1,3 @@
-<img src="https://shloka.onrender.com/api/v1/sanskrit/slogan/image?rand=8199
-
 # Hey, I'm Shivam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 🤖 I enjoy building innovative solutions as a AI Engineer, with a strong focus on Machine Learning, AI and Data Science.  
