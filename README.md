@@ -1,8 +1,8 @@
 # Hey, I'm Shivam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🤖 I enjoy building innovative solutions as a AI Engineer, with a strong focus on Machine Learning, AI and Data Science.  
+🤖 I enjoy building innovative solutions as an AI/ML Engineer.
 💻 I am constantly seeking out new technologies and learning about them.  
-🤝 I am open to collaborating on various projects, particularly those related to software development, AI, and data science.  
+🤝 I am open to collaborating on various projects, particularly those related to AI, and data science.  
 🌟 In my leisure time, I enjoy exploring global trends and their impacts on technology.
 
 ---
@@ -149,9 +149,9 @@
 
 ## 🛠️ My Projects
 
-- [Shloka](https://shloka.vercel.app/) - A project focused on providing insights into Sanskrit texts using AI.
+- [Shloka](https://shloka.vercel.app/) - A project focused on providing insights into Sanskrit texts.
 
-## 🌟 AI & Machine Learning Focus
+## 🌟 Current Focus
 
 I have a keen interest in Generative AI projects. My experience includes:
 
@@ -186,4 +186,4 @@ I have a keen interest in Generative AI projects. My experience includes:
 
 ---
 
-Feel free to connect with me for collaboration opportunities, project discussions, or job openings in AI, Machine Learning and data science!
+Feel free to connect with me for collaboration.
