@@ -150,6 +150,7 @@
 ## 🛠️ My Projects
 
 - [Shloka](https://shloka.vercel.app/) - A project focused on providing insights into Sanskrit texts.
+- [Alisia](https://searchwithalisia.netlify.app/) - An AI Neural Search Engine with Current Knowledge and multiple tools.
 
 ## 🌟 Current Focus
 
