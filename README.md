@@ -8,7 +8,7 @@
 
 ---
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 <table>
       <tr>
@@ -144,16 +144,16 @@
 | ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivvamm&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivvamm&hide_progress=false) | <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=shivvamm&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
 | ------------- | ------------- |
 
-## 📝 Blogs
+## Blogs
 
 - Personal website and blog: [shivvamm.github.io](https://shivvamm.github.io/)
 
-## 🛠️ My Projects
+## My Projects
 
 - [Shloka](https://shloka.vercel.app/) - A project focused on providing insights into Sanskrit texts.
 - [Alisia](https://searchwithalisia.netlify.app/) - An AI Neural Search Engine with Current Knowledge and multiple tools.
 
-## 🌟 Current Focus
+## Current Focus
 
 I have a keen interest in Generative AI projects. My experience includes:
 
@@ -161,7 +161,7 @@ I have a keen interest in Generative AI projects. My experience includes:
 - Fine-tuning Large Language Models to solve specific real-world problems.
 - Working on synthetic data generation.
 
-## ☎️ Socials
+## Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivampandey27/" target="blank">
@@ -189,3 +189,4 @@ I have a keen interest in Generative AI projects. My experience includes:
 ---
 
 Feel free to connect with me for collaboration.
+
