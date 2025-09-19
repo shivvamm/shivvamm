@@ -1,10 +1,10 @@
 ![Shlok](https://shloka.onrender.com/api/v1/bahgavad_gita/image)
 # Hey, I'm Shivam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🤖 I enjoy building innovative solutions as an AI/ML Engineer.
-💻 I am constantly seeking out new technologies and learning about them.  
-🤝 I am open to collaborating on various projects, particularly those related to AI, and data science.  
-🌟 In my leisure time, I enjoy exploring global trends and their impacts on technology.
+I enjoy building innovative solutions as an AI/ML Engineer.
+I am constantly seeking out new technologies and learning about them.  
+I am open to collaborating on various projects, particularly those related to AI, and data science.  
+In my leisure time, I enjoy exploring global trends and their impacts on technology.
 
 ---
 
@@ -189,4 +189,5 @@ I have a keen interest in Generative AI projects. My experience includes:
 ---
 
 Feel free to connect with me for collaboration.
+
 
