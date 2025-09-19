@@ -148,18 +148,11 @@ In my leisure time, I enjoy exploring global trends and their impacts on technol
 
 - Personal website and blog: [shivvamm.github.io](https://shivvamm.github.io/)
 
-## My Projects
+## Projects
 
 - [Shloka](https://shloka.vercel.app/) - A project focused on providing insights into Sanskrit texts.
 - [Alisia](https://searchwithalisia.netlify.app/) - An AI Neural Search Engine with Current Knowledge and multiple tools.
 
-## Current Focus
-
-I have a keen interest in Generative AI projects. My experience includes:
-
-- Developing predictive models using Python and libraries like Scikit-Learn, TensorFlow, and PyTorch.
-- Fine-tuning Large Language Models to solve specific real-world problems.
-- Working on synthetic data generation.
 
 ## Socials
 
@@ -189,5 +182,6 @@ I have a keen interest in Generative AI projects. My experience includes:
 ---
 
 Feel free to connect with me for collaboration.
+
 
 
