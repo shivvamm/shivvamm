@@ -8,7 +8,7 @@ I build AI-powered products — from voice agents and RAG pipelines to multi-age
 Constantly exploring the cutting edge of AI/ML and turning research into real-world applications.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivampandey27/" target="blank">
+  <a href="https://www.linkedin.com/in/shivvamm/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mrshivam@duck.com" target="blank">
@@ -137,9 +137,11 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-7B2D8E?style=for-the-badge&logoColor=white)
 
 ### Computer Vision & Media AI
-![DALL-E](https://img.shields.io/badge/DALL--E-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-A100FF?style=for-the-badge&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SAM](https://img.shields.io/badge/SAM-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-FF6F00?style=for-the-badge&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white)
 ![OCR / Document AI](https://img.shields.io/badge/OCR%2FDocument_AI-4285F4?style=for-the-badge&logoColor=white)
 
 ### Web & Full Stack
@@ -185,7 +187,7 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivampandey27/" target="blank">
+  <a href="https://www.linkedin.com/in/shivvamm/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mrshivam@duck.com" target="blank">
