@@ -141,7 +141,7 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
       <br><sub><b>Gemini</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://groq.com/wp-content/uploads/2024/03/PBG-mark1-color.svg" width="48" height="48" alt="Groq" />
+      <img src="https://cdn.simpleicons.org/groq/F55036" width="48" height="48" alt="Groq" />
       <br><sub><b>Groq</b></sub>
     </td>
     <td align="center" width="96">
@@ -149,15 +149,15 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
       <br><sub><b>LlamaIndex</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Prompt_Eng-00A67E?style=flat-square&logoColor=white" height="28" alt="Prompt Engineering" />
+      <img src="https://api.iconify.design/carbon/prompt-template.svg?color=%2300A67E" width="48" height="48" alt="Prompt Engineering" />
       <br><sub><b>Prompt Eng.</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Fine--tuning-FF4B4B?style=flat-square&logoColor=white" height="28" alt="Fine-tuning" />
+      <img src="https://api.iconify.design/carbon/model-tuning.svg?color=%23FF4B4B" width="48" height="48" alt="Fine-tuning" />
       <br><sub><b>Fine-tuning</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/RLHF%2FDPO-7B2D8E?style=flat-square&logoColor=white" height="28" alt="RLHF/DPO" />
+      <img src="https://api.iconify.design/carbon/chart-evaluation.svg?color=%237B2D8E" width="48" height="48" alt="RLHF/DPO" />
       <br><sub><b>RLHF/DPO</b></sub>
     </td>
   </tr>
@@ -167,27 +167,27 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white" height="28" alt="CrewAI" />
+      <img src="https://api.iconify.design/carbon/bot.svg?color=%23FF4B4B" width="48" height="48" alt="CrewAI" />
       <br><sub><b>CrewAI</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" height="28" alt="LangGraph" />
+      <img src="https://api.iconify.design/carbon/flow-modeler.svg?color=%231C3C3C" width="48" height="48" alt="LangGraph" />
       <br><sub><b>LangGraph</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logoColor=white" height="28" alt="AutoGen" />
+      <img src="https://cdn.simpleicons.org/microsoft/0078D4" width="48" height="48" alt="AutoGen" />
       <br><sub><b>AutoGen</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/MCP-D97706?style=flat-square&logoColor=white" height="28" alt="MCP" />
+      <img src="https://cdn.simpleicons.org/anthropic/D97706" width="48" height="48" alt="MCP" />
       <br><sub><b>MCP</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Multi--Agent-2EA44F?style=flat-square&logoColor=white" height="28" alt="Multi-Agent" />
+      <img src="https://api.iconify.design/carbon/group.svg?color=%232EA44F" width="48" height="48" alt="Multi-Agent" />
       <br><sub><b>Multi-Agent</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Tool_Use-6366F1?style=flat-square&logoColor=white" height="28" alt="Tool Use" />
+      <img src="https://api.iconify.design/carbon/tool-kit.svg?color=%236366F1" width="48" height="48" alt="Tool Use" />
       <br><sub><b>Tool Use</b></sub>
     </td>
   </tr>
@@ -201,19 +201,19 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
       <br><sub><b>Deepgram</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/STT-0066FF?style=flat-square&logoColor=white" height="28" alt="STT" />
+      <img src="https://api.iconify.design/carbon/microphone.svg?color=%230066FF" width="48" height="48" alt="STT" />
       <br><sub><b>STT</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/TTS-FF6F00?style=flat-square&logoColor=white" height="28" alt="TTS" />
+      <img src="https://api.iconify.design/carbon/volume-up.svg?color=%23FF6F00" width="48" height="48" alt="TTS" />
       <br><sub><b>TTS</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Realtime-E91E63?style=flat-square&logoColor=white" height="28" alt="Realtime Voice" />
+      <img src="https://api.iconify.design/carbon/waveform.svg?color=%23E91E63" width="48" height="48" alt="Realtime Voice" />
       <br><sub><b>Realtime Voice</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Voice_Agents-9C27B0?style=flat-square&logoColor=white" height="28" alt="Voice Agents" />
+      <img src="https://api.iconify.design/carbon/headset.svg?color=%239C27B0" width="48" height="48" alt="Voice Agents" />
       <br><sub><b>Voice Agents</b></sub>
     </td>
   </tr>
@@ -235,15 +235,15 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
       <br><sub><b>Elasticsearch</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logoColor=white" height="28" alt="RAG Pipelines" />
+      <img src="https://api.iconify.design/carbon/data-enrichment.svg?color=%23FF6F00" width="48" height="48" alt="RAG Pipelines" />
       <br><sub><b>RAG Pipelines</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Embeddings-00BCD4?style=flat-square&logoColor=white" height="28" alt="Embeddings" />
+      <img src="https://api.iconify.design/carbon/vector.svg?color=%2300BCD4" width="48" height="48" alt="Embeddings" />
       <br><sub><b>Embeddings</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/GraphRAG-7B2D8E?style=flat-square&logoColor=white" height="28" alt="GraphRAG" />
+      <img src="https://api.iconify.design/carbon/graph.svg?color=%237B2D8E" width="48" height="48" alt="GraphRAG" />
       <br><sub><b>GraphRAG</b></sub>
     </td>
   </tr>
@@ -265,7 +265,7 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
       <br><sub><b>SAM</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/ViT-FF6F00?style=flat-square&logoColor=white" height="28" alt="Vision Transformers" />
+      <img src="https://api.iconify.design/carbon/view.svg?color=%23FF6F00" width="48" height="48" alt="Vision Transformers" />
       <br><sub><b>Vision Trans.</b></sub>
     </td>
     <td align="center" width="96">
@@ -273,7 +273,7 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
       <br><sub><b>MediaPipe</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Doc_AI-4285F4?style=flat-square&logoColor=white" height="28" alt="Document AI" />
+      <img src="https://api.iconify.design/carbon/document.svg?color=%234285F4" width="48" height="48" alt="Document AI" />
       <br><sub><b>Document AI</b></sub>
     </td>
   </tr>
