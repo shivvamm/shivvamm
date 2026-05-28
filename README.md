@@ -96,70 +96,252 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
 ## Tech Stack
 
 ### AI/ML & Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+      <br><sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+      <br><sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" />
+      <br><sub><b>Scikit-learn</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter" />
+      <br><sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda" />
+      <br><sub><b>Anaconda</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### LLMs & Generative AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B3FA0?style=for-the-badge&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge&logoColor=white)
-![Fine--tuning](https://img.shields.io/badge/Fine--tuning-FF4B4B?style=for-the-badge&logoColor=white)
-![RLHF/DPO](https://img.shields.io/badge/RLHF%2FDPO-7B2D8E?style=for-the-badge&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" />
+      <br><sub><b>LangChain</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI" />
+      <br><sub><b>OpenAI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" />
+      <br><sub><b>Gemini</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://groq.com/wp-content/uploads/2024/03/PBG-mark1-color.svg" width="48" height="48" alt="Groq" />
+      <br><sub><b>Groq</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="LlamaIndex" />
+      <br><sub><b>LlamaIndex</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Prompt_Eng-00A67E?style=flat-square&logoColor=white" height="28" alt="Prompt Engineering" />
+      <br><sub><b>Prompt Eng.</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Fine--tuning-FF4B4B?style=flat-square&logoColor=white" height="28" alt="Fine-tuning" />
+      <br><sub><b>Fine-tuning</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/RLHF%2FDPO-7B2D8E?style=flat-square&logoColor=white" height="28" alt="RLHF/DPO" />
+      <br><sub><b>RLHF/DPO</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### AI Agents & Orchestration
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-D97706?style=for-the-badge&logoColor=white)
-![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-2EA44F?style=for-the-badge&logoColor=white)
-![Tool Use](https://img.shields.io/badge/Tool_Use-6366F1?style=for-the-badge&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white" height="28" alt="CrewAI" />
+      <br><sub><b>CrewAI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" height="28" alt="LangGraph" />
+      <br><sub><b>LangGraph</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logoColor=white" height="28" alt="AutoGen" />
+      <br><sub><b>AutoGen</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/MCP-D97706?style=flat-square&logoColor=white" height="28" alt="MCP" />
+      <br><sub><b>MCP</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Multi--Agent-2EA44F?style=flat-square&logoColor=white" height="28" alt="Multi-Agent" />
+      <br><sub><b>Multi-Agent</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Tool_Use-6366F1?style=flat-square&logoColor=white" height="28" alt="Tool Use" />
+      <br><sub><b>Tool Use</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Voice AI
-![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=white)
-![STT](https://img.shields.io/badge/STT-0066FF?style=for-the-badge&logoColor=white)
-![TTS](https://img.shields.io/badge/TTS-FF6F00?style=for-the-badge&logoColor=white)
-![Realtime Voice](https://img.shields.io/badge/Realtime_Voice-E91E63?style=for-the-badge&logoColor=white)
-![Voice Agents](https://img.shields.io/badge/Voice_Agents-9C27B0?style=for-the-badge&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/deepgram/13EF93" width="48" height="48" alt="Deepgram" />
+      <br><sub><b>Deepgram</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/STT-0066FF?style=flat-square&logoColor=white" height="28" alt="STT" />
+      <br><sub><b>STT</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/TTS-FF6F00?style=flat-square&logoColor=white" height="28" alt="TTS" />
+      <br><sub><b>TTS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Realtime-E91E63?style=flat-square&logoColor=white" height="28" alt="Realtime Voice" />
+      <br><sub><b>Realtime Voice</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Voice_Agents-9C27B0?style=flat-square&logoColor=white" height="28" alt="Voice Agents" />
+      <br><sub><b>Voice Agents</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### RAG & Vector Databases
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-00BCD4?style=for-the-badge&logoColor=white)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-7B2D8E?style=for-the-badge&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/pinecone/000000" width="48" height="48" alt="Pinecone" />
+      <br><sub><b>Pinecone</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/qdrant/DC382D" width="48" height="48" alt="Qdrant" />
+      <br><sub><b>Qdrant</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="48" height="48" alt="Elasticsearch" />
+      <br><sub><b>Elasticsearch</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logoColor=white" height="28" alt="RAG Pipelines" />
+      <br><sub><b>RAG Pipelines</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Embeddings-00BCD4?style=flat-square&logoColor=white" height="28" alt="Embeddings" />
+      <br><sub><b>Embeddings</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/GraphRAG-7B2D8E?style=flat-square&logoColor=white" height="28" alt="GraphRAG" />
+      <br><sub><b>GraphRAG</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Computer Vision & Media AI
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![SAM](https://img.shields.io/badge/SAM-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-FF6F00?style=for-the-badge&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white)
-![OCR / Document AI](https://img.shields.io/badge/OCR%2FDocument_AI-4285F4?style=for-the-badge&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/yolo/00FFFF" width="48" height="48" alt="YOLO" />
+      <br><sub><b>YOLO</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
+      <br><sub><b>OpenCV</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/meta/0668E1" width="48" height="48" alt="SAM" />
+      <br><sub><b>SAM</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/ViT-FF6F00?style=flat-square&logoColor=white" height="28" alt="Vision Transformers" />
+      <br><sub><b>Vision Trans.</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/google/0F9D58" width="48" height="48" alt="MediaPipe" />
+      <br><sub><b>MediaPipe</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Doc_AI-4285F4?style=flat-square&logoColor=white" height="28" alt="Document AI" />
+      <br><sub><b>Document AI</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Web & Full Stack
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+      <br><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
+      <br><sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+      <br><sub><b>Sass</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="DigitalOcean" />
+      <br><sub><b>DigitalOcean</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+      <br><sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="48" height="48" alt="RabbitMQ" />
+      <br><sub><b>RabbitMQ</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
