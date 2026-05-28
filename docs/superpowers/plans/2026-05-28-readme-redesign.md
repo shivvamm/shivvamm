@@ -1,3 +1,89 @@
+# GitHub Profile README Redesign — Implementation Plan
+
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+
+**Goal:** Complete redesign of shivvamm/shivvamm GitHub profile README as a bold, colorful, recruiter-facing AI Engineer portfolio.
+
+**Architecture:** Single-page README.md using GitHub-flavored Markdown + inline HTML tables for layout. GitHub Actions for dynamic content (shloka rotation already exists, new snake animation workflow). All stats widgets use verified working external services.
+
+**Tech Stack:** Markdown, HTML, shields.io badges, github-profile-summary-cards, streak-stats.demolab.com, Platane/snk GitHub Action, readme-typing-svg
+
+---
+
+## File Structure
+
+| File | Action | Responsibility |
+|------|--------|----------------|
+| `README.md` | Rewrite | The entire profile — header, projects, tech stack, stats, footer |
+| `.github/workflows/snake.yml` | Create | GitHub Action to generate contribution snake SVG daily |
+| `.github/workflows/update_readme.yml` | Keep (no changes) | Existing shloka image rotation |
+
+---
+
+### Task 1: Create the Contribution Snake GitHub Action
+
+**Files:**
+- Create: `.github/workflows/snake.yml`
+
+This must be done first because the README will reference the snake SVG from the `output` branch. The SVG won't exist until this action runs at least once (or we trigger it manually after pushing).
+
+- [ ] **Step 1: Create the snake workflow file**
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: shivvamm
+          outputs: |
+            dist/github-contribution-dark-snake.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+- [ ] **Step 2: Commit the workflow**
+
+```bash
+git add .github/workflows/snake.yml
+git commit -m "feat: add GitHub contribution snake animation workflow"
+```
+
+---
+
+### Task 2: Write the Header & Hero Section of README
+
+**Files:**
+- Modify: `README.md` (full rewrite starts here — replace all existing content)
+
+- [ ] **Step 1: Write the header section**
+
+Replace the entire contents of `README.md` with:
+
+```markdown
 ![Shlok](https://shloka.onrender.com/api/v1/bahgavad_gita/image)
 
 # Hey, I'm Shivam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -23,6 +109,33 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
 </p>
 
 ---
+```
+
+- [ ] **Step 2: Verify the typing SVG URL works**
+
+Open in browser: `https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Voice+AI;AI+Agents;RAG;Generative+AI;LLMs`
+
+Expected: An animated SVG showing text cycling through the listed phrases.
+
+- [ ] **Step 3: Commit**
+
+```bash
+git add README.md
+git commit -m "feat: rewrite README header with animated typing and social badges"
+```
+
+---
+
+### Task 3: Write the Featured Projects Section
+
+**Files:**
+- Modify: `README.md` (append after the header)
+
+- [ ] **Step 1: Append the featured projects section to README.md**
+
+Add after the `---` at the end of the header:
+
+```markdown
 
 ## Featured Projects
 
@@ -92,6 +205,27 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
 </table>
 
 ---
+```
+
+- [ ] **Step 2: Commit**
+
+```bash
+git add README.md
+git commit -m "feat: add featured projects section with live demo links"
+```
+
+---
+
+### Task 4: Write the Tech Stack Section
+
+**Files:**
+- Modify: `README.md` (append after the projects section)
+
+- [ ] **Step 1: Append the tech stack section to README.md**
+
+Add after the `---` at the end of the projects section:
+
+```markdown
 
 ## Tech Stack
 
@@ -160,6 +294,27 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
+```
+
+- [ ] **Step 2: Commit**
+
+```bash
+git add README.md
+git commit -m "feat: add categorized tech stack with shields.io badges"
+```
+
+---
+
+### Task 5: Write the GitHub Stats & Activity Section
+
+**Files:**
+- Modify: `README.md` (append after the tech stack section)
+
+- [ ] **Step 1: Append the stats section to README.md**
+
+Add after the `---` at the end of the tech stack section:
+
+```markdown
 
 ## GitHub Stats
 
@@ -179,6 +334,27 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
 </picture>
 
 ---
+```
+
+- [ ] **Step 2: Commit**
+
+```bash
+git add README.md
+git commit -m "feat: add GitHub stats cards and contribution snake animation"
+```
+
+---
+
+### Task 6: Write the Footer Section
+
+**Files:**
+- Modify: `README.md` (append after the stats section)
+
+- [ ] **Step 1: Append the footer to README.md**
+
+Add after the `---` at the end of the stats section:
+
+```markdown
 
 <p align="center">
   <object type="image/svg+xml" data="https://shloka.onrender.com/api/v1/sanskrit/slogan/image" width="180" height="72"></object>
@@ -200,3 +376,42 @@ Constantly exploring the cutting edge of AI/ML and turning research into real-wo
 </p>
 
 <p align="center">Feel free to connect with me for collaboration.</p>
+```
+
+- [ ] **Step 2: Commit**
+
+```bash
+git add README.md
+git commit -m "feat: add footer with Sanskrit slogan and social badges"
+```
+
+---
+
+### Task 7: Verify Everything Works
+
+- [ ] **Step 1: Push to GitHub and trigger the snake workflow**
+
+```bash
+git push origin master
+```
+
+Then go to https://github.com/shivvamm/shivvamm/actions and manually trigger the "Generate Snake Animation" workflow via the "Run workflow" button (the `workflow_dispatch` trigger).
+
+- [ ] **Step 2: Verify the profile page**
+
+Open https://github.com/shivvamm in a browser and verify:
+
+1. Shloka banner image loads at the top
+2. Animated typing SVG cycles through the phrases
+3. Social badges are visible and clickable
+4. All 6 project names are clickable and redirect to their live demos
+5. Tech stack badges render with correct colors per category
+6. All 3 stats cards load (GitHub Stats, Top Languages, Streak)
+7. Profile details card loads full-width
+8. Snake animation loads (after the workflow completes — may take a few minutes)
+9. Sanskrit slogan loads in the footer
+10. Footer social badges work
+
+- [ ] **Step 3: Fix any broken elements**
+
+If any stats card or badge fails to load, check the URL directly in the browser. Replace with a working alternative if needed.
